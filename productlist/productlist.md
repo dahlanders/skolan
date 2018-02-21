@@ -6,9 +6,6 @@ Du ska skriva en console-app som frågar efter ett antal produkter. Efter att an
 
 Den första versionen av programmet är ganska lätt. Version 3 är mycket svår. Försök komma så lång du hinner.
 
-## Instruktioner för inlämning
-
-Lämna in en version av programmet.
 
 ## Version 1
 
