@@ -1,1 +1,13 @@
+# folders
+
 .vs
+bin
+obj
+packages
+.vs
+
+# files
+
+*.user
+*.suo
+*.log
