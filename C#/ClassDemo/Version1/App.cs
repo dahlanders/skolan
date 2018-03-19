@@ -1,21 +1,7 @@
-using System;
-
-namespace Exempel1
+Ôªønamespace ClassDemo.Version1
 {
-    class Product
-    {
-        private int _productId;
+    using System;
 
-        public int GetProductId()
-        {
-            return _productId;
-        }
-
-        public void SetProductId(int value)
-        {
-            _productId = value;
-        }
-    }
     class Book
     {
         string _isbn;
@@ -56,7 +42,7 @@ namespace Exempel1
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Felaktigt antal sidor, s‰tter antal sidor till 300!");
+                Console.WriteLine("Felaktigt antal sidor, s√§tter antal sidor till 300!");
                 _nrOfPages = 300;
                 Console.ForegroundColor = ConsoleColor.Gray;
             }
@@ -76,13 +62,13 @@ namespace Exempel1
             if (_nrOfPages < 300)
                 return "Okej bok";
 
-            return "V‰rdelˆs bok";
+            return "V√§rdel√∂s bok";
         }
     }
 
-    class Program
+    public class App
     {
-        static void Main()
+        public void Run()
         {
             Console.WriteLine();
 
@@ -94,11 +80,12 @@ namespace Exempel1
 
             Console.WriteLine($"Info om boken:");
             Console.WriteLine($"* ISBN={b1.GetIsbn()}");
-            Console.WriteLine($"* Fˆrfattare={b1.GetAuthor()}");
+            Console.WriteLine($"* F√∂rfattare={b1.GetAuthor()}");
             Console.WriteLine($"* Antal sidor={b1.GetNrOfPages()}");
             Console.WriteLine($"* Vikt={b1.WeightInGram()} gram");
             Console.WriteLine($"* Recension={b1.Review()}");
             Console.WriteLine();
         }
     }
+
 }
