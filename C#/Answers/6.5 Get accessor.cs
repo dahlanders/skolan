@@ -14,5 +14,13 @@ public class Address
 
     // Get using property instead
 
-    public string FullStreet => $"{Street} {StreetNumber}";
+    public string FullStreet
+    {
+        get
+        {
+            return $"{Street} {StreetNumber}";
+        }
+    }
+
+    public string FullStreet_Shorter => $"{Street} {StreetNumber}";
 }
