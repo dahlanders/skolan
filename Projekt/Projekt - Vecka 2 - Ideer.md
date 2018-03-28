@@ -80,6 +80,7 @@ Fler idéer
 - MUD
 - Console-äventyr
 - Hjälte, trollkarl, blåbär, dryck, skog
+- Linq, lambda
 
 Fler idéer
 - Multiplayer
@@ -88,3 +89,109 @@ Fler idéer
 - Hjälten blir äldre med tiden
 - Rita upp en vinst-screen med ascii
 - Highscore
+
+## Utgifter
+
+Registrera utgifter
+Ge sammanfattning
+
+Fler idéer
+- Klassificera utgifter: godis
+- Procentbaserad fördelning (12% på godis)
+- Göra en budget
+- Fasta och rörliga utgifter
+- Exportera till CSV-fil
+- Varning om du överskrider din godiskvot
+- Fokus kring godis
+- Hela godisfamiljen
+
+## Rövarspråket
+
+Skriv på rövarspråket => vanligt
+
+Fler idéer
+- Casear
+- Vanligt => rövarspråk
+- Översätta till dalmål
+- Voice syntheziser
+- Läsa in en textfil => rövarspråk
+- Pig latin
+- Trainy-mc-trainface
+- Morse
+
+## Chatclient
+
+Chat med winsocket
+Server, chat
+
+Fler idéer
+- Emojis
+- Färger
+- Ljud
+- Kryptering
+- Bot'ar
+- API'er till chatclient
+- Anonymisering
+
+## Oddsättare på matcher
+
+Bedöm lag efter parameterar. Hockey.
+- Antal vunna matcher
+- Om förstamålvakten står
+- Hemma eller borta
+
+Fler idéer
+- Beroende på vilka spelare som spelar
+- Ett lag är dåligt mot ett tidigare
+- Veckodag
+- Väder
+- Höjd
+
+
+
+## Aktieportföljer 
+
+Vikta aktieportföljer
+- Output: risk
+
+Plotta ut grafer
+
+Fler idéer
+- Läs in från textfil
+- Läsa in från API
+- Praktisk test
+
+
+## Energi beräkning
+
+Energi beräkning av hus
+
+Input:
+- U-värden
+- Väggmaterial
+
+Fler idéer
+- Jämför två hus
+- Pellets, fjärrvärme, värmepump
+
+## Inköpslista
+
+Receptdatabas
+5 recept på vardag => inköpslista
+
+Flera idéer
+- Crawla' andra recept
+- Allergier, preferenser
+- E-ämnen
+- Hämta näringsdata mot livsmedelsverket
+- Inte alla ägg i samma korg
+- Skicka inköpslista till mat.se
+- Lägg in i kalendern - inköpslistan
+- Landsanpassat
+- Ersättningsalternativ
+- Antal personer
+- Svårighetsgrad, tid, kategori
+
+
+
+
