@@ -2,8 +2,6 @@
 
 Det som står inom parantes är de kolumner som ska hämtas. T.ex i fråga 3 så ska bara ArtistName-kolumnen hämtas.
 
-Alla övningar ska lösas genom att skriva och köra SQL-script (förutom fråga 7)
-
 ## 1)
 
 Öppna databasservern på din dator:
