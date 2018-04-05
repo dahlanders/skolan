@@ -57,3 +57,174 @@ Redovisning i 5 min där ni svarar på:
 - Vad var utmanade? Vad tog längst tid?
 - Om ni skulle fortsätta, vad skulle ni gjort då?
 
+## Idéer på projekt
+
+#### Idrottsförening
+
+- Medlemmar
+- Avgifter
+- Resultat
+
+
+### Mataffär
+
+- Produkter
+- Placering
+- Rabatter
+- Kundklubb
+
+### My life
+
+- Kompis
+- Känslor
+- Träning
+- Hobby
+- Näring
+
+### RolfBussbolag
+
+- Resor
+- Bussar
+- Bokningar
+- Nöjdhet
+- Personal
+- Erbjudande
+
+
+### Sportaffär
+- Inventarier
+- Personal
+- Lokaler
+
+### Spårvagnar
+- Var, när, hur
+
+### Hyreshus
+- Inneboende
+- Lokaler
+- Parkering
+
+### Rollspel
+- Platser
+- Spelare
+- Item
+
+### Kundvård
+- Köp
+- Garantiärenden
+- Kvittolagring
+- Nyhetsbrev
+
+### Filmdatabas
+- Regisör
+- Prod persnal
+- Sammanfattning
+- År
+
+### Parkeringsautomat
+- Till platser
+- Pristariff
+- Betalningar
+
+### Flygbokning
+- Bokningar
+- Bagagehant
+- Tillg flyg
+- Rutt, dest
+
+### Smarta kylskåp
+- IoT
+- När mjölk slut
+- Ingredienser
+- Billigast
+
+### Kollektivtraffik
+- Bussbolag, spårvagnbolag
+- Underhåll-bolag
+- Biljettkontrollanter
+- Försäljare
+- Hemsidor
+- Appar
+
+### Sportevenemang
+- OS
+- Grenar
+- Deltagare
+- Publik
+- Arena
+- Personal
+- Matservering
+- biljetter
+
+
+### Banksystem
+- Konton
+- Kunder
+- Kassa
+
+### Regering
+- Ministrar
+- Möten
+
+
+### Skola
+- Lärare
+- Elever
+- Salar
+- 
+### Bensinmack
+- Bensin
+- Mack
+- Diesel
+- Mackor
+- Pumpar
+
+### Stad
+- Hus
+- Stadsdelar
+- Vägar
+- Vattenledning
+
+### Flygplats
+- Passagerare
+- Land bana
+- Flygplan
+
+### Telecom
+- Master
+- Telefonnummer
+- Bolag
+- Plats
+
+### Semester
+- Resmål
+- Bill hotell
+- Tågtider
+- Flygtider
+- Fav restaurang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
