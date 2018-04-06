@@ -39,13 +39,23 @@ Fail:
 
 ## Produktnummer II
 
-Plocka ut delarna ur ett produktnummer:
-DE-234-456 => 
+Skriv en metod ProductNumberIsValid (i C#) som returnerar sant som produktnumret är på rätt format
+
+Tips: använd Regex.IsMatch
+
+### Produktnummer III
+
+Skriv en metod PrintPartOfProductNumber (i C#) som skriver ut ett produktnummers delar.
+
+Ex.
+
+    DE-234-456 => 
 
 	Första delen: DE
 	Andra delen: 234
 	Tredje delen: 456
 
+Tips: använd Regex.Match
 
 ## Extra
 
